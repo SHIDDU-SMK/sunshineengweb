@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b059b622.css",
-    "main.js": "/static/js/main.ace574ac.js",
+    "main.css": "/static/css/main.e2726212.css",
+    "main.js": "/static/js/main.fac7f246.js",
     "static/js/787.95f66ea1.chunk.js": "/static/js/787.95f66ea1.chunk.js",
     "static/media/epoxybush.jpg": "/static/media/epoxybush.fcaac527ce255c45d6ff.jpg",
     "static/media/bush&insulator.jpg": "/static/media/bush&insulator.239d24bc1d581273a9cd.jpg",
@@ -9,13 +9,16 @@
     "static/media/sunshine.jpg": "/static/media/sunshine.58c3f360717e9606e2ab.jpg",
     "static/media/logo.jpg": "/static/media/logo.1afa18e515aab5bbaf6e.jpg",
     "static/media/insulator.jpg": "/static/media/insulator.873918f2c789ea329bd4.jpg",
+    "static/media/aboutus-image.jpg": "/static/media/aboutus-image.d69c39abf32abbc64715.jpg",
+    "static/media/homeImage.jpg": "/static/media/homeImage.e306ed409fc3ea3626b7.jpg",
+    "static/media/tap-change.jpg": "/static/media/tap-change.4147f4cc879fa37a2515.jpg",
     "index.html": "/index.html",
-    "main.b059b622.css.map": "/static/css/main.b059b622.css.map",
-    "main.ace574ac.js.map": "/static/js/main.ace574ac.js.map",
+    "main.e2726212.css.map": "/static/css/main.e2726212.css.map",
+    "main.fac7f246.js.map": "/static/js/main.fac7f246.js.map",
     "787.95f66ea1.chunk.js.map": "/static/js/787.95f66ea1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b059b622.css",
-    "static/js/main.ace574ac.js"
+    "static/css/main.e2726212.css",
+    "static/js/main.fac7f246.js"
   ]
 }
